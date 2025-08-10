@@ -1,7 +1,7 @@
 # 🦙 LLaMA Text Summarizer
 
 This is a powerful AI-powered text summarization application that uses the LLaMA 2 model (via Ollama) to generate concise summaries of your text content.
-![Description]("Screenshot 2025-08-10 140525.png")
+![Description](Screenshot 2025-08-10 140525.png)
 
 
 ## 🚀 Features
@@ -186,6 +186,7 @@ If you encounter any issues:
 
 
 **Happy Summarizing!** 🚀
+
 
 
 
