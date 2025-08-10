@@ -2,7 +2,7 @@
 
 This is a powerful AI-powered text summarization application that uses the LLaMA 2 model (via Ollama) to generate concise summaries of your text content.
 
-![Description](Screenshot%202025-08-10%20140525.png)
+![Text Summarizer Page](Screenshot%202025-08-10%20140525.png)
 ## 🚀 Features
 
 - **Local AI Processing**: Uses LLaMA 2 model running locally via Ollama
@@ -185,6 +185,7 @@ If you encounter any issues:
 
 
 **Happy Summarizing!** 🚀
+
 
 
 
