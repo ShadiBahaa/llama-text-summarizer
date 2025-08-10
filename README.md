@@ -65,7 +65,6 @@ pip install -r requirements.txt
 
 ### 4. Project Structure
 
-Create the following directory structure:
 
 ```
 llama-text-summarizer/
@@ -187,4 +186,5 @@ If you encounter any issues:
 
 
 **Happy Summarizing!** 🚀
+
 
