@@ -1,7 +1,7 @@
 # 🦙 LLaMA Text Summarizer
 
 This is a powerful AI-powered text summarization application that uses the LLaMA 2 model (via Ollama) to generate concise summaries of your text content.
-![Description](https://private-user-images.githubusercontent.com/33010011/476349164-7f6bd980-3b0c-413c-8550-8e932df6a344.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4MjQ0MDMsIm5iZiI6MTc1NDgyNDEwMywicGF0aCI6Ii8zMzAxMDAxMS80NzYzNDkxNjQtN2Y2YmQ5ODAtM2IwYy00MTNjLTg1NTAtOGU5MzJkZjZhMzQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEwVDExMDgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkZDlkN2QyNDQzZThmYTI5MzllMDRlMzc1OWU0YjY3YjZmMjQzNTI0NDZhN2VkOTA3NGVhM2ViMWM4NTU4MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._zyl9aSfXpxZakSm_wI6ur-zeAQDSHoVMcH88nwL9I0)
+![Description]("Screenshot 2025-08-10 140525.png")
 
 
 ## 🚀 Features
@@ -186,5 +186,6 @@ If you encounter any issues:
 
 
 **Happy Summarizing!** 🚀
+
 
 
